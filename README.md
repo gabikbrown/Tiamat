@@ -27,7 +27,7 @@ Todo o trabalho está no notebook ML_Tiamat.ipynb, que contém a introdução, a
 
 ```
 Tiamat/
-├── ML_Tiamat.ipynb      relatório completo (comece por aqui)
+├── ML_Tiamat.ipynb      relatório completo 
 ├── README.md         este arquivo
 └── adult.data    conjunto de treino do Adult (32.561 registros)
 ```
