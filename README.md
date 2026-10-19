@@ -1,3 +1,5 @@
+
+
 ![Imagem](Cabeçalho.png)
 
 <div align="center">
@@ -22,23 +24,4 @@ O arquivo `dados/adult.data` tem 32.561 registros, com 14 atributos e a renda an
 
 ## Experimentos e Resultado
 
-## Estrutura do presente repositório
-Todo o trabalho está no notebook ML_Tiamat.ipynb, que contém a introdução, a análise, os experimentos, os resultados e as conclusões. Ele lê o arquivo dados/adult.data e não depende de nenhum outro arquivo do projeto. 
-
-```
-Tiamat/
-├── ML_Tiamat.ipynb      relatório completo 
-├── README.md         este arquivo
-└── adult.data    conjunto de treino do Adult (32.561 registros)
-```
-
-## Como executar
-1. Crie um ambiente com Python 3.13 e instale as bibliotecas usadas, com as versões fixadas em `requirements.txt`:
-```bash
-   pip install -r requirements.txt
-```
-2. Abra o `Tiamat.ipynb` a partir da pasta raiz do repositório e execute todas as células, de cima para baixo. 
-
-## Uso de Inteligência Artificial 
-Este trabalho foi desenvolvido com o auxílio do assistente de IA Claude (Anthropic). 
-## Referências
+## Estrutura do presente repositó
