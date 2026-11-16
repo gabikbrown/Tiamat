@@ -79,6 +79,30 @@ O trabalho foi feito com Python 3.13. Os comandos abaixo são digitados no termi
 
 Sobre o tempo de execução: a otimização carrega os estudos que já estão na pasta `estudos/` e só roda as tentativas que faltam para chegar a 100 por *pipeline*. Com a pasta presente, o notebook reaproveita as tentativas salvas e termina bem mais rápido. Sem ela, a otimização recomeça do zero e leva perto de uma hora, dependendo do computador. Todas as etapas com aleatoriedade usam a semente 24, para que os resultados possam ser reproduzidos.
 
+## Autora
+<table>
+  <tr>
+     <td align="center">
+      <a href="https://github.com/gabikbrown">
+        <img src="https://github.com/gabikbrown.png" width="100" alt="Foto de Gabriela Cabral"><br>
+        <sub><b>Gabriela Cabral</b></sub>
+      </a>
+    </td>
+ </tr>
+</table>
+
+## Professor 
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="Prof. Daniel R. Cassar">
+        <img src="https://avatars.githubusercontent.com/u/9871905?v=4" width="100px;" alt="Foto do Daniel do Github"/><br>
+          <a href="https://github.com/drcassar"><b>Prof. Dr. Daniel R. Cassar<b></a>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Fonte dos dados
 
 BECKER, B.; KOHAVI, R. *Adult*. UCI Machine Learning Repository, 1996. DOI: [10.24432/C5XW20](https://doi.org/10.24432/C5XW20).
